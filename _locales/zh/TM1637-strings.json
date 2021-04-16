@@ -8,5 +8,5 @@
 	"TM1637.TM1637LEDs.clear|block":"%tm 数码管清除显示",
 	"TM1637.TM1637LEDs.on|block":"%tm 数码管打开显示",
 	"TM1637.TM1637LEDs.off|block":"%tm 数码管关闭显示",
-	"TM1637.create|block":"CLK接 %clk 引脚 |DIO接 %dio 引脚 |设置亮度为 %intensity |数码管位数为 %count"
+	"TM1637.create|block":"CLK接 %clk |DIO接 %dio |设置亮度为 %intensity |数码管位数为 %count"
 }
