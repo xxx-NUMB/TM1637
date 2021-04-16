@@ -1,0 +1,22 @@
+{
+    "name": "TM1637",
+    "version": "0.0.0",
+    "description": "4位LED数码管扩展程序包",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "TM1637.ts",
+        "_locales/zh/TM1637-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

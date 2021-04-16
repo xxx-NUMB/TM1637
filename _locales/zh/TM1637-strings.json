@@ -1,0 +1,12 @@
+{
+	"TM1637|block":"四位数码管",
+	"TM1637.TM1637LEDs.intensity|block":"%tm| 设置数码管亮度为 %val",
+	"TM1637.TM1637LEDs.showbit|block":"%tm| 数码管显示数字 %num |在第 %bit 位",
+	"TM1637.TM1637LEDs.showNumber|block":"%tm| 数码管显示数字 %num",
+	"TM1637.TM1637LEDs.showHex|block":"%tm| 数码管显示十六进制数 %num",
+	"TM1637.TM1637LEDs.showDP|block":" %tm| 数码管位置 %bit| 处的点是否显示 %show",
+	"TM1637.TM1637LEDs.clear|block":"%tm 数码管清除显示",
+	"TM1637.TM1637LEDs.on|block":"%tm 数码管打开显示",
+	"TM1637.TM1637LEDs.off|block":"%tm 数码管关闭显示",
+	"TM1637.create|block":"CLK接 %clk 引脚 |DIO接 %dio 引脚 |设置亮度为 %intensity |数码管位数为 %count"
+}
